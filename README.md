@@ -4,7 +4,7 @@ Node.js: Testing and Code Quality
 
 Most software engineers would agree that clean code is easier to maintain than messy code, but what exactly does that look like, and how do go about cleaning up messy code? In this course, Jon Peck shows how to measure quality, implement testing, and measure code coverage in your Node.js apps, using a complete but buggy restaurant booking application to illustrate the concepts. Jon first reviews JavaScript fundamentals and testing and code quality concepts. He then explains how to use linters to find suspicious code; explores different testing frameworks and their components; and shows how to isolate your code for testing using test doubles, then verify with spies and mocks. Jon wraps up the course by showing how to generate reports on code health across your entire codebase. Along the way, he provides challenge and solution videos so you can test your knowledge of each section before moving on.
 
-[Link to project example this course](https://github.com/laissonsilveira/nodejs-testing-and-code-quality/tree/main/nadia)
+[Link to project example](https://github.com/laissonsilveira/nodejs-testing-and-code-quality/tree/main/nadia)
 
 ## Capítulo: 1. Testing and Code Quality Fundamentals
 
